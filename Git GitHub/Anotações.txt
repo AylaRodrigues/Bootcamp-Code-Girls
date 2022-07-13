@@ -1,0 +1,18 @@
+cd - navegar entre as pastas
+cd .. ou cd / - volta a pasta
+dir - lista de pastas
+mkdir - criar pasta
+del - deleta os arquivo dentro da pasta
+rmdir *nome da pasta* /S /Q - deleta a pasta
+cls - limpar o terminal
+tab - completa a frase
+echo ... > *nome do arq* - cria um arquivo com esse nome
+git init - iniciar repositorio
+git add * - iniciar o versionamento
+git add .
+git commit -m "comentario do commit"
+git push origin master
+git status
+ls -a mostras arquivos ocultos
+git clone *colocar o link do repo do github*
+
